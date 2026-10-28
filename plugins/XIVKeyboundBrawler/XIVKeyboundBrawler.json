@@ -1,0 +1,24 @@
+{
+  "Author": "XIVKeyboundBrawler",
+  "Name": "XIVKeyboundBrawler",
+  "InternalName": "XIVKeyboundBrawler",
+  "AssemblyVersion": "0.1.0.0",
+  "Description": "Detects words above enemies in the Keybound Brawler Gold Saucer mini-game and automatically types them with configurable delays and randomization.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/xCeru/XIVKeyboundBrawler",
+  "Tags": [
+    "keybound",
+    "brawler",
+    "gold-saucer",
+    "typing",
+    "automation"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/xCeru/XIVKeyboundBrawler/main/images/icon.png",
+  "Punchline": "Auto-types words in Keybound Brawler mini-game",
+  "AcceptsFeedback": true
+}

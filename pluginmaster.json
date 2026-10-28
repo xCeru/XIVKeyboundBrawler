@@ -15,14 +15,14 @@
             "automation"
         ],
         "DalamudApiLevel": 15,
-        "IconUrl": "https://raw.githubusercontent.com/xCeru/XIVKeyboundBrawler/main/Data/icon.png",
-        "DownloadLinkInstall": "https://github.com/xCeru/XIVKeyboundBrawler/releases/latest/download/XIVKeyboundBrawler.zip",
+        "IconUrl": "https://raw.githubusercontent.com/xCeru/XIVKeyboundBrawler/main/images/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/xCeru/XIVKeyboundBrawler/main/plugins/XIVKeyboundBrawler/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "ApplicableVersion": "any",
-        "DownloadLinkTesting": "https://github.com/xCeru/XIVKeyboundBrawler/releases/latest/download/XIVKeyboundBrawler.zip",
-        "DownloadLinkUpdate": "https://github.com/xCeru/XIVKeyboundBrawler/releases/latest/download/XIVKeyboundBrawler.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/xCeru/XIVKeyboundBrawler/main/plugins/XIVKeyboundBrawler/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/xCeru/XIVKeyboundBrawler/main/plugins/XIVKeyboundBrawler/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1793036210"
+        "LastUpdate": "1793200273"
     }
 ]
