@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Dalamud.NET.Sdk/15.0.0">
   <PropertyGroup>
-    <Version>0.1.0.0</Version>
+    <Version>0.1.1.0</Version>
     <Author>XIVKeyboundBrawler</Author>
     <Name>XIVKeyboundBrawler</Name>
     <Punchline>Auto-types words in Keybound Brawler mini-game</Punchline>
