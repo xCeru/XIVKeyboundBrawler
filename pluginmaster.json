@@ -5,7 +5,7 @@
         "Punchline": "Auto-types words in Keybound Brawler mini-game",
         "Description": "Detects words above enemies in the Keybound Brawler Gold Saucer mini-game and automatically types them with configurable delays and randomization.",
         "InternalName": "XIVKeyboundBrawler",
-        "AssemblyVersion": "0.1.0.0",
+        "AssemblyVersion": "0.1.1.0",
         "RepoUrl": "https://github.com/xCeru/XIVKeyboundBrawler",
         "Tags": [
             "keybound",
@@ -15,7 +15,7 @@
             "automation"
         ],
         "DalamudApiLevel": 15,
-        "IconUrl": "https://raw.githubusercontent.com/xCeru/XIVKeyboundBrawler/main/images/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/xCeru/XIVKeyboundBrawler/master/icon.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/xCeru/XIVKeyboundBrawler/main/plugins/XIVKeyboundBrawler/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
@@ -23,6 +23,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/xCeru/XIVKeyboundBrawler/main/plugins/XIVKeyboundBrawler/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/xCeru/XIVKeyboundBrawler/main/plugins/XIVKeyboundBrawler/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1793200273"
+        "LastUpdate": "1793201037"
     }
 ]
